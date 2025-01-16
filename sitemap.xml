@@ -12,6 +12,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/san-leon-manzanilla/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/yellow-tail-bubbles/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/stella-artois/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
